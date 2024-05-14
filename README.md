@@ -1,5 +1,5 @@
 
-# Invoice Generator
+# GenInvoice Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,8 +10,7 @@ GenInvoice is a user-friendly tool designed to create professional invoices effo
 ## Features
 
 - **Professional Invoices**: Create polished and professional invoices with ease.
-- **Customizable Templates**: Tailor invoice templates to match your brand identity.
-- **Export Options**: Export invoices in various formats, including PDF.
+- **Export Options**: Export invoices in PDF.
 - **Detailed Billing**: Include comprehensive client details and itemized billing.
 - **User-Friendly Interface**: Navigate through an intuitive and simple user interface.
 
@@ -27,4 +26,4 @@ For any inquiries or support, please open an issue on [GitHub](https://github.co
 
 ---
 
-Thank you for using Invoice Generator! We hope it simplifies your invoicing needs.
+Thank you for using our Invoice Generator! We hope it simplifies your invoicing needs.
